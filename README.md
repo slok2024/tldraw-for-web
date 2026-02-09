@@ -1,5 +1,9 @@
 tldraw-for-web
 
+1. 下载 Release 里的 dist.zip
+2. 解压到 Web 服务器目录
+3. 确保通过 HTTP 协议访问 (如 Nginx 或 http-server)
+
 <img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/46846258-a965-4d37-b46d-04a8b19da7dd" />
 
 
